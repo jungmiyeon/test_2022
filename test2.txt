@@ -1,3 +1,2 @@
 test2 -1
-test2 -origin
-==> master 수정
+test2 -origin, prj1 -> origin
