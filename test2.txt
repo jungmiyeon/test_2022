@@ -1,2 +1,2 @@
 test2 -1
-test2 -origin, prj1
+test2 -origin, prj1 -> origin
